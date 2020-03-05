@@ -1,0 +1,24 @@
+{
+  "name": "osmosis-conductor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "instascan.min.js",
+  "scripts": {
+    "start": "parcel qrcode.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arjunadappa/osmosis-conductor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arjunadappa/osmosis-conductor/issues"
+  },
+  "homepage": "https://github.com/Arjunadappa/osmosis-conductor#readme",
+  "dependencies": {
+    "@material/textfield": "^5.1.0",
+    "material-components-web": "^5.1.0"
+  }
+}

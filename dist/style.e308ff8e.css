@@ -1,0 +1,79 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #d3d3d3;
+}
+
+
+.center{
+  position: absolute;
+  left: 30%;
+  margin-top: 50px;
+  width: 42%;
+  height: 650px;
+  padding-left: 20px;
+  padding-top: 20px;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: 1px 2px rgb(114, 114, 114), -2px 2px rgb(114, 114, 114);
+}
+
+#preview{
+  width: 480px;
+}
+
+button.transaction{
+  position: absolute;
+  top: 20px;
+  right: 0px;
+  width: 130px;
+  height: 80px;
+  background-color: rgb(58, 60, 185);
+  color: white;
+  border: 1px outset gray;
+  cursor: pointer;
+}
+
+#trans2{
+  position: absolute;
+  top: 150px;
+}
+
+#form-field{
+  margin-top: 40px ;
+  margin-left: 80px;
+}
+
+#ticket-label{
+  font-size: large;
+  font-weight: bold;
+  position: relative;
+  left: 30px;
+}
+
+#tickets{
+  position: relative;
+  width: 70px;
+  left: 35px;
+  height: 30px;
+  border-radius: 3px;
+  border: 1px solid gray;
+  padding-left: 12px;
+}
+
+#button-bar{
+  background-color: gray;
+  width: 20%;
+  height: 650px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-top-right-radius: 5px;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
